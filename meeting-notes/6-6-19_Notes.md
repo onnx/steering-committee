@@ -9,4 +9,5 @@
  
 **Agenda:**
 * **CLA update**  
+* **Election rules (need to establish within 3 months)**  
  
