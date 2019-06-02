@@ -13,4 +13,5 @@
 * **Summer workshop hosted by NVIDIA updates**
 * **Guidelines for logos on onnx.ai**
 * **Next steering committee meeting proposal (due to holidays and vacations)**
+* **SIG kick offs**
  
