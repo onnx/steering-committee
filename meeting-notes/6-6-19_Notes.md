@@ -14,7 +14,7 @@
 * **CLA update**  
 Now that we have open governance, we need to update the CLA. Joe has sent a draft of updated CLA for us to review. Prasanth and Harry have shared some initial feedback. Waiting for others to review. Joe will connect the legal teams to discuss directly.
 * **Election rules (need to establish within 3 months)**  
-The open governance requires the bootstrap steering committee to public election process and rules within 3 months. Need someone to drive this so we can complete by Sept 1. Harry volunteered to put together draft and share with steering committee by mid-July.
+The open governance requires the bootstrap steering committee to publish election process and rules within 3 months. Need someone to drive this so we can complete by Sept 1. Harry volunteered to put together draft and share with steering committee by mid-July.
 * **Summer workshop hosted by NVIDIA updates**  
 Dilip shared updates that Joohoon will be driving this. Looking at late July/August. Save the dates will be sent out soon.
 * **Guidelines for logos on onnx.ai**  
