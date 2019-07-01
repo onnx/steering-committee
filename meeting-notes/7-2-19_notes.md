@@ -1,0 +1,21 @@
+## Steering Committee Meeting 7/2
+
+### Attendance:
+
+| Name (Affiliation) | Present? |
+| ------------------------------- | --- |
+| Prasanth Pulavarthi (Microsoft) |  |
+| Joe Spisak (Facebook)           |  |
+| Vin Sharma (Amazon)             |  | 
+| Harry Kim (Intel)               |  |
+| Dilip Sequeira (Nvidia)         |  |
+ 
+### Agenda:
+* **CLA update**  
+Joe
+* **Election rules update**  
+Harry
+* **Summer workshop hosted by NVIDIA updates**  
+Dilip
+* **Guidelines for logos on onnx.ai**  
+Prasanth published draft - can we finalize
