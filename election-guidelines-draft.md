@@ -57,6 +57,7 @@ For ONNX Steering Committee election, the Condorcet ranking with Schulze method 
 We will use Condorcet Internet Voting Service ([civs.cs.cornell.edu](https://civs.cs.cornell.edu/)) to collect votes from Contributors. 
 
 After votes are casted, the results of individual votes will be uploaded to ONNX Github election directory to ensure transparency. 
+
 <code>**[TODO]** Determine if we can use other platforms</code> 
 
 ## Election officers and Steering Committee emeritus members
