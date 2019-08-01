@@ -9,7 +9,8 @@ For the first year of its ONNX open governance, representitives from Facebook, M
 This document is created to provide guidelines for the election process to ensure maximum transparency and fairness. 
 
 
-##Timeline
+## Timeline
+
 Candidate applications will be accepted in April, and the election will be held in May. The new term for Steering Committee begins on June 1st of the corresponding year. The following table outlines the schedule for the election process. 
 
 | Schedule     | Event               | 
@@ -22,42 +23,48 @@ Candidate applications will be accepted in April, and the election will be held 
 | June 1 | New term begins with elected Steering Committee. Steering Committee Emeritus members help with the transition for the month of June.      |
 
 
-##Eligibility 
-###Eligibility for Steering Committee candadicy
+## Eligibility 
+
+### Eligibility for Steering Committee candadicy
 
 <code>**[TODO]** Candadicy eligbility needs to be discussed </code>
 
 Candidates can either be self-nominated or endorsed by one of Member Companies. A self-nominated candidate must at least be a contributor. 
 
  
-###Eligibility for voting
+### Eligibility for voting
+
 To participate in the Steering commitee election, you must be a Contributor to the ONNX project. As defined in the community guideline, Contributor is sponsored by 2 approvers from different companies. 
 
 Contributors are further required to submit their github handle, email address, and affiliated company name to be eligible for voting. Any Contributor who has not submitted their information by before April 31st will not be able to participate in the election. 
 
 <code>**[TODO]** There needs to be a list of contributors</code> 
 
-##Candidacy process
+## Candidacy process
 
-##Voting process 
-###General election procedure
+## Voting process 
+
+### General election procedure
 In order to promote fairness, the Steering Committee has decided to limit 1 vote per Member Company. Contributors will be able to vote individually, but their votes will be rolled up to represent the vote of associated Member Company. This procedure will prevent large companies with lots of Contributors from dominating the election results. 
 
-###Voting mechanics and algorithm
+### Voting mechanics and algorithm
+
 The election will use [Condorcet ranking](https://en.wikipedia.org/wiki/Condorcet_method) with [Schulze method](https://en.wikipedia.org/wiki/Schulze_method). Condorcet ranking allows voters to indicate ranked preference for candidates, and Schultz method provides an algorithm to tally the overall preference.
 
 For ONNX Steering Committee election, the Condorcet ranking with Schulze method will be performed twice. The individual Contributor votes gets tallied first to Member Companies, and the results of the Member Company votes are ranked again using the same method. 
 
-###Voting platform
+### Voting platform
 We will use Condorcet Internet Voting Service ([civs.cs.cornell.edu](https://civs.cs.cornell.edu/)) to collect votes from Contributors. 
 
 After votes are casted, the results of individual votes will be uploaded to ONNX Github election directory to ensure transparency. 
 <code>**[TODO]** Determine if we can use other platforms</code> 
 
-##Election officers and Steering Committee emeritus members
-###Election officers
+## Election officers and Steering Committee emeritus members
+
+### Election officers
 Two election officers will be chosen from the current Steering committee to oversee the election process. 
-###Steering Committee emeritus members
+
+### Steering Committee emeritus members
 Two Steering Committee members will remain as emeritus members for the newly elected Committee to help with transition process for 1 month. 
 
 
