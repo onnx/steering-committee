@@ -56,7 +56,7 @@ After votes are casted, the results of individual votes will be uploaded to ONNX
 ## Election officers and Steering Committee emeritus members
 
 ### Election officers
-Two election officers will be chosen from the current Steering committee to oversee the election process. They are responsible for overseeing the progress of the election and ensure the process is correctly implemented. Their duties include coordinating election as shown in the timeline above, tallying and announcing votes for the ONNX community.  
+Two election officers will be chosen from the current Steering committee to oversee the election process. They are responsible for overseeing the progress of the election and ensure the process is correctly implemented. Their duties include coordinating election as shown in the timeline above, tallying votes and announcing results for the ONNX community.  
 
 ### Steering Committee emeritus members
 Two Steering Committee members will remain as emeritus members for the newly elected Committee to help with transition process for 1 month. If previous Steering Committee members are relected, then they will guide the trasition for the new members, and there will not be a separate Steering Committe emeritus members. 
