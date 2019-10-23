@@ -1,0 +1,26 @@
+## Steering Committee Meeting 10/24
+
+### Attendance:
+
+| Name (Affiliation) | Present? |
+| ------------------------------- | --- |
+| Prasanth Pulavarthi (Microsoft) |  |
+| Joe Spisak (Facebook)           |  |
+| Vin Sharma (Amazon)             |  | 
+| Harry Kim (Intel)               |  |
+| Dilip Sequeira (Nvidia)         |  |
+
+### Agenda:
+
+* **ONNX Leaderboard** 
+
+* **Foundation decision** 
+
+* **Contributor list**  
+  Proposal: 
+  1. Start with SIG and WG Contributors and have them endorse new Contributors. 
+  2. If there are 2 endorsements, a nomidated contributor becomes a Contributor
+  3. If there is 1 endorsement, a nominated contributor can get an endorsement from a Steering Commitee member to become a Contributor. 
+  4. If there are no endorsements, a contributor can become a Contributor with 2 endorsements from the Steering Committee members. 
+
+* **Roadmap**  
