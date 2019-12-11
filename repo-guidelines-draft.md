@@ -15,7 +15,7 @@ The ONNX GitHub organization contains a number of repositories. The Steering Com
 
 ## Requirements for new, contributed repos
 
-We are happy to accept contributions of new projects as repos under the ONNX organization that meet the following requirements:
+We are happy to accept contributions as repos under the ONNX organization of new projects that meet the following requirements:
 
 * Project is closely related to ONNX
 * Adds value to the ONNX ecosystem
