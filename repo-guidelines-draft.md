@@ -10,12 +10,16 @@ The ONNX GitHub organization contains a number of repositories. The Steering Com
 * Must adopt all ONNX automation (like LGTM)
 * Must be owned and managed by one of the ONNX SIGs
 * Must be actively maintained
+* CI or other automation in place for repos containing code to ensure quality
 * All OWNERS must be members of standing as defined by ability to vote in Steering Committee elections.
 
 ## Requirements for new, contributed repos
 
-We are happy to accept contributions of new projects as repos under the ONNX organization. The project must be closely related to ONNX and must meet these requirements:
+We are happy to accept contributions of new projects as repos under the ONNX organization that meet the following requirements:
 
+* Project is closely related to ONNX
+* Adds value to the ONNX ecosystem
+* Determined to need a new repo rather than a folder in an existing repo
 * All contributors must have signed the ONNX CLA
 * Licenses of dependencies must be acceptable
 * Committment to maintain the repo
