@@ -1,4 +1,4 @@
-# ONNX Steering Commitee election guideline [DRAFT]
+# ONNX Steering Commitee election guideline
 
 ## Introduction
 
