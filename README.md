@@ -11,5 +11,5 @@ Elections happen annually. The current members for the term starting June 1, 201
 * [Joe Spisak](https://github.com/jspisak) (Facebook)
 * [Vin Sharma](https://github.com/ciphr) (Amazon)
 * [Harry Kim](https://github.com/harryskim) (Intel)
-* Dilip Sequeira (Nvidia)
+* [Dilip Sequeira](https://github.com/DilipSequeira) (Nvidia)
 
