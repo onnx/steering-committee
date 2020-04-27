@@ -19,7 +19,7 @@ List of Contributors eligible to vote
 |Jianhao Zhang                |daquexian    |JD.com       |
 |Ashwini Khade                |askhade      |MS           |
 |Emad Barsoum                 |ebarsoum     |MS           |
-|Emma Ning  EmmaNingMS        |EmmaNingMS   |MS           |
+|Emma Ning         |EmmaNingMS   |MS           |
 |Faith Xu                     |faxu         |MS           |
 |G. Ramalingam                |gramalingam  |MS           |
 |Guenther Schmuelling         |guschmue     |MS           |
