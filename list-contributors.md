@@ -28,11 +28,11 @@ List of Contributors eligible to vote
 |Wei-Sheng Chin               |wschin       |MS           |
 |Miguel de Icaza              |migueldeicaza|MS           |
 |Changming Sun                |snnn         |MS           |
-|Vinitra Swamy  vinitra       |vinitra      |MS           |
-|Raymond Yang  raymondxyang   |raymondxyang |DropBox      |
-|Kevin Chen  kevinch-nv       |kevinch-nv   |NVIDIA       |
-|Milan Oljaca  moljacq        |moljacq      |Qualcomm     |
-|Ofer Rosenberg  OferRosenberg|OferRosenberg|Qualcomm     |
+|Vinitra Swamy        |vinitra      |MS           |
+|Raymond Yang     |raymondxyang |DropBox      |
+|Kevin Chen      |kevinch-nv   |NVIDIA       |
+|Milan Oljaca       |moljacq      |Qualcomm     |
+|Ofer Rosenberg  |OferRosenberg|Qualcomm     |
 |Yuan Tang                    |terrytangyuan|Ant Financial|
 |Aseem Wadhwa                 |aseemw       |Apple        |
 |Bhushan Sonawane             |bhushan23    |Apple        |
