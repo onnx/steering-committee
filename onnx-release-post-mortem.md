@@ -82,7 +82,7 @@ PRs
 
 ## Issues
 
-###Communication
+### Communication
 - No formal communication channel for release scope, status, issues, and discussions. Ended up using onnx/infra gitter and a github issue.
 - The onnx/releases gitter is inactive, last post Aug 31 2018
 - Some people do not respond to release related questions. Even a quick &quot;I don&#39;t know&quot; or &quot;I don&#39;t have time to look into that&quot; would help.
