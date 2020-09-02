@@ -1,0 +1,41 @@
+## Steering Committee Meeting 9/3/2020
+
+### Attendance:
+
+| Name (Affiliation)              | Present  |
+| ------------------------------- | -------- |
+| Prasanth Pulavarthi (Microsoft) |       |
+| Harry Kim (Intel)               |       |
+| Jim Spohrer (IBM)               |       |
+| Joohoon Lee (Nvidia)            |       |
+| Sheng Zha (AWS)                 |       |
+
+Others: 
+
+### Agenda:
+
+* Assemble (5 minutes)
+
+* Deprecate Gitter (2 minutes)
+  * Slack setup
+    * add instructions to SIG and WG pages (Harry)
+    * add instructions to onnx.ai (Ask Joohoon)
+    * migrate gitter to slack one by one (Jim)
+    * Gitter channel post corresponding slack channel
+
+* Workshop - Wed Oct 14 7-10am PT - Next ONNX Community Meeting (2 minutes)
+  * Email invitation (linux foundation)
+
+* Relicensing to Apache 2.0 (2 minutes)
+  * Duel license note recommended (Jim followed up with LFAI)
+  * Enable github DCO (Prasanth)
+
+* Roadmap sessions planned for next week  (2 minutes)
+  * Vision (Harry/Prasanth)
+
+* Zetane Presentation (15 minutes)
+
+* Wrap Up (0 minutes) - transition into roadmap meeting
+   
+ 
+  
