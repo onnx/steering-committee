@@ -1,0 +1,58 @@
+## Steering Committee Meeting 01/21/2021
+
+### Attendance:
+
+| Name (Affiliation)              | Present  |
+| ------------------------------- | -------- |
+| Prasanth Pulavarthi (Microsoft) |        |
+| Harry Kim (Intel)               |        |
+| Jim Spohrer (IBM)               |        |
+| Joohoon Lee (Nvidia)            |        |
+| Sheng Zha (AWS)                 |        |
+
+Others: 
+
+### Agenda:
+
+* Announcements SIGs
+    * SIG Operator (Emad thanks,best wishes; Rama and Michal co-chairs) 
+    * Other SIG updates and issues (ALL)
+
+* Licensing
+    * Status and open issues (Prasanth, Joohoon, Sheng)
+
+* Release 
+    * Status and open issues (Ashwini and/or others)
+
+* Workshop (China friendly)
+    * Ti Zhou from Baidu is host
+    * March 25 8-11am CST (March 24 5-8pm PDT)
+    * Ti Zhou confirms he can edit event wiki - https://wiki.lfaidata.foundation/pages/viewpage.action?pageId=35160391
+     
+    * Announce and call for content:
+        1. Create form for talk submissions (Jim)
+
+        Decide between:
+        Revised GoogleDoc - https://docs.google.com/document/d/201HQD3oOqln4XvLB2IIk2xqM9sYBFNFcXBAeDOPjkdObw/edit
+
+        GoogleForm - https://docs.google.com/forms/d/1GbA4dUZFp1QCDkxA5G4Mi2cUILoM1irdBDZgFHNhsbA/edit
+
+        2. Update onnx.ai website and social media (Prasanth)
+     
+    * TODO:
+        1. create agenda for event - line up speakers (TI Zhou with help of ONNX SC)
+        2. add host to wiki (Ti Zhou, Baidu)
+        3. drive registrations and participation (ALL)
+        4. add zoom link to wiki
+        5. other items? (Ti Zhou and ONNX SC discussions)
+
+     * Landing page for workshops on onnx.ai (nicer looking website) - Harry
+
+* Upcoming activities
+     * ONNX Roadmap (Alexandre Eichenberger - IBM interested in helping)
+     * ONNX SC Elections (Harry Kim)
+     
+* Other items
+     * Future speakers - ONNX SC presentations (thanks to Ti Zhou and Baidu PaddlePaddle team last week)
+     * Any interesting Slack community questions/conversations
+     * Other items?
