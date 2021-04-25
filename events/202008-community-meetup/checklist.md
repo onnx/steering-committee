@@ -12,4 +12,4 @@ This checklist includes the essential items for organzing a community event.
 - [ ] Record event
 - [ ] Share recording and materials on LFAI&Data/ONNX Playlist YouTube Channel
 - [ ] Post event thank-you note and survey
-- [ ] Blog about each youtube (maybe one a week) until next workshop
+- [ ] Micro-blog (social media) about each youtube (maybe one a week) until next workshop
