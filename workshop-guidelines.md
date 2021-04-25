@@ -37,8 +37,8 @@
 - t-0: Go live
  
 ### Post Event
-- Send out "Thank You" email
-- Process video recordings and upload with presentations to LFAI wiki
+- Send out "Thank You" email and include survey link
+- Process video recordings and upload with presentations to LFAI wiki and LFAI&Data Youtube
 - Announce/send link to videos/presentations on ONNX and LFAI web sites
 - Publish blog about the workshop: summary, experience, etc.
 - Take action on any follow-up items
