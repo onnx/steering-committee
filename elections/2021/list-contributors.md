@@ -8,13 +8,13 @@ List of Contributors eligible to vote
 |Sheng Zha                    |szha         |AWS          |
 |Emad Barsoum                 |ebarsoum     |Cerebrus     |
 |Harry Kim                    |harryskim    |Facebook     |
+|Vinitra Swamy                |vinitra      |EPFL         |
 |Alexandre Eichenberger       |AlexandreEichenberger|IBM  |
 |Chin Huang                   |chinhuang007 |IBM          |
 |Gheorghe-Teodor Bercea       |doru1004     |IBM          |
 |Jim Spohrer                  |jimspohrer   |IBM          |
 |Kevin O'Brien                |caoimhinuibrian|IBM        |
 |Winnie Tsang                 |winnietsang  |IBM          |
-|Tian Jin                     |tjingrant    |IBM          |
 |Tong Chen                    |chentong319  |IBM          |
 |Michał Karzyński             |postrational |Intel        |
 |Jianhao Zhang                |daquexian    |JD.com       |
@@ -34,8 +34,8 @@ List of Contributors eligible to vote
 |Wei-Sheng Chin               |wschin       |Microsoft    |
 |Wenbing Li                   |wenbingl     |Microsoft    |
 |Miguel de Icaza              |migueldeicaza|Microsoft    |
-|Vinitra Swamy                |vinitra      |Microsoft    |
 |Yuan Yu                      |yuanbyu      |Microsoft    |
+|Tian Jin                     |tjingrant    |MIT          |
 |Joohoon Lee                  |joohoon      |NVIDIA       |
 |Kevin Chen                   |kevinch-nv   |NVIDIA       |
 |Wenhao Hu                    |fumihwh      |Pinduoduo    |
