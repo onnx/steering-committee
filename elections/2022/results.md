@@ -36,7 +36,11 @@
 | Tong Chen (IBM) | 1 | 7 | 7 | 7 | 7 | 7 | 7 | 
 | Ke Zhang (ALIBABA) | 1 | 2 | 3 | 7 | 4 | 5 | 7 | 
 
+<<<<<<< HEAD
 ## Precedence per company.
+=======
+## Precednence per company.
+>>>>>>> main
 | Member company | Perference (Numbers are indices of columns from vote table) |
 |----------------|-------------------------------------------------------------|
 | ALIBABA |  > Alex > Andr > Maya >  Raj > Pran > Amir = Egor |
