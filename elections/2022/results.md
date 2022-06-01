@@ -1,6 +1,6 @@
 # Vote results for year 2022-2023.
 ## Votes casted by Contributors.
-| Contributors | Alexandre Eichenberger (IBM) | Andreas Fehlner (TRUMPF Laser GmbH) | Mayank Kaushik (NVIDIA) | Amira Moussa (CheetahAI) | Rajeev Nalawadi (Intel) | Prasanth Pulavarthi (Microsoft) | Egor Pushkin (Oracle Cloud Infrastructure | 
+| Contributors | Alexandre Eichenberger (IBM) | Andreas Fehlner (TRUMPF Laser GmbH) | Mayank Kaushik (NVIDIA) | Amira Moussa (CheetahAI) | Rajeev Nalawadi (Intel) | Prasanth Pulavarthi (Microsoft) | Egor Pushkin (Oracle Cloud Infrastructure) | 
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | Nathaniel McVicar (MS) | 1 | 6 | 4 | 7 | 3 | 2 | 5 | 
 | Alex Eichenberger (IBM) | 2 | 6 | 3 | 6 | 3 | 1 | 5 | 
@@ -36,17 +36,17 @@
 | Tong Chen (IBM) | 1 | 7 | 7 | 7 | 7 | 7 | 7 | 
 | Ke Zhang (ALIBABA) | 1 | 2 | 3 | 7 | 4 | 5 | 7 | 
 
-## Precednence per company.
+## Precedence per company.
 | Member company | Perference (Numbers are indices of columns from vote table) |
 |----------------|-------------------------------------------------------------|
-| ALIBABA |  > Alex > Andr > Maya >  Raj > Pran > Amir = Egor |
-| IBM |  > Alex > Pran >  Raj > Maya > Egor > Andr > Amir |
-| INTEL |  >  Raj > Pran > Alex > Maya > Andr = Amir = Egor |
-| MIT |  > Alex > Andr = Maya = Amir =  Raj = Pran = Egor |
-| MS |  > Pran > Alex > Maya >  Raj > Egor > Amir > Andr |
-| NVIDIA |  > Maya > Pran > Alex >  Raj > Andr = Egor > Amir |
-| PreferredNetworks |  > Maya > Pran > Alex > Egor > Andr >  Raj > Amir |
-| VMWARE |  > Maya =  Raj = Pran > Alex = Andr > Egor > Amir |
+| ALIBABA | Alex > Andr > Maya >  Raj > Pran > Amir = Egor |
+| IBM | Alex > Pran >  Raj > Maya > Egor > Andr > Amir |
+| INTEL |  Raj > Pran > Alex > Maya > Andr = Amir = Egor |
+| MIT | Alex > Andr = Maya = Amir =  Raj = Pran = Egor |
+| MS | Pran > Alex > Maya >  Raj > Egor > Amir > Andr |
+| NVIDIA | Maya > Pran > Alex >  Raj > Andr = Egor > Amir |
+| PreferredNetworks | Maya > Pran > Alex > Egor > Andr >  Raj > Amir |
+| VMWARE | Maya =  Raj = Pran > Alex = Andr > Egor > Amir |
 
 ## Final results (Schultz method, top 5 are elected).
 1.  Alexandre Eichenberger (IBM)
@@ -54,6 +54,6 @@
 3.  Mayank Kaushik (NVIDIA)
 4.  Rajeev Nalawadi (Intel)
 5.  Andreas Fehlner (TRUMPF Laser GmbH)
-6.  Egor Pushkin (Oracle Cloud Infrastructure
+6.  Egor Pushkin (Oracle Cloud Infrastructure)
 7.  Amira Moussa (CheetahAI)
 
