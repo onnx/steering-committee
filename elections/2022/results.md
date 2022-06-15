@@ -1,6 +1,6 @@
 # Vote results for year 2022-2023.
 ## Votes casted by Contributors.
-| Contributors | Alexandre Eichenberger (IBM) | Andreas Fehlner (TRUMPF Laser GmbH) | Mayank Kaushik (NVIDIA) | Amira Moussa (CheetahAI) | Rajeev Nalawadi (Intel) | Prasanth Pulavarthi (Microsoft) | Egor Pushkin (Oracle Cloud Infrastructure | 
+| Contributors | Alexandre Eichenberger (IBM) | Andreas Fehlner (TRUMPF Laser GmbH) | Mayank Kaushik (NVIDIA) | Amira Moussa (CheetahAI) | Rajeev Nalawadi (Intel) | Prasanth Pulavarthi (Microsoft) | Egor Pushkin (Oracle Cloud Infrastructure) | 
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | Nathaniel McVicar (MS) | 1 | 6 | 4 | 7 | 3 | 2 | 5 | 
 | Alex Eichenberger (IBM) | 2 | 6 | 3 | 6 | 3 | 1 | 5 | 
@@ -54,6 +54,6 @@
 3.  Mayank Kaushik (NVIDIA)
 4.  Rajeev Nalawadi (Intel)
 5.  Andreas Fehlner (TRUMPF Laser GmbH)
-6.  Egor Pushkin (Oracle Cloud Infrastructure
+6.  Egor Pushkin (Oracle Cloud Infrastructure)
 7.  Amira Moussa (CheetahAI)
 
