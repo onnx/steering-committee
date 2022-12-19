@@ -2,7 +2,7 @@
 
 ## Release timelines
 
-2/19/202: first release team sync-up meeting, and set initial targeted release date: 3/2/2020
+2/19/2020: first release team sync-up meeting, and set initial targeted release date: 3/2/2020
 
 3/9/2020: release candidate TestPypi (v1.7.102) created, however due to no training optimizers merged in master branch, release date was first revised to 3/31/2020, announced in gitter [https://gitter.im/onnx/Infra](https://gitter.im/onnx/Infra)
 
