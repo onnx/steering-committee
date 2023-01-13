@@ -1,6 +1,6 @@
 # ONNX Steering Committee
 
-The role and responsibilities of the Steering Committee are defined in the ONNX [governance](https://github.com/onnx/onnx/tree/master/community#steering-committee).
+The role and responsibilities of the Steering Committee are defined in the ONNX [governance](https://github.com/onnx/onnx/tree/main/community#steering-committee).
 
 The Steering Commmittee meets regularly and calls are available for any community member to join. You can find the latest schedule at https://onnx.ai/calendar
 
