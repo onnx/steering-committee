@@ -1,0 +1,59 @@
+## Steering Committee Meeting 07/10/2024
+
+### Attendance:
+
+| Name (Affiliation)              | Present  |
+| ------------------------------- | -------- |
+| Prasanth Pulavarthi (Microsoft) | yes |
+| Alexandre Eichenberger (IBM)    | yes |
+| Mayank Kaushik (NVIDIA)         | yes |
+| Saurabh Tangri (Intel)          | yes |
+| Ramakrishnan Sivakumar (AMD)    | yes |
+
+Other attendees: Raghavan Sarangapani (Intel) Charles V (IBM)
+
+Moderator: Saurabh
+
+#### ONNX Community Meetup
+- Retrospective 
+  - Coarse grain kernel mapping from ONNX using functions
+    Fragmentation in GenAI support in ONNX is a pressing issue. Krishna to engage on followups with Operators SIGs on ONNX functions.  
+  - Separability of ONNX compute graph and weights
+    Seperabilty will encourage wider adoption of larger models via ONNX. Krishna to sync with Mayank. Krishna to engage on followups with Operators SIGs on changes needed.
+    TensorRT used a dummy weight model and then client app updates the weights offline. https://github.com/NVIDIA/TensorRT-LLM/tree/main/examples/sample_weight_strippinghttps://github.com/NVIDIA/TensorRT-LLM/tree/main/examples/sample_weight_stripping
+  - Improving availability of GenAI ONNX models. Already kicked off in Model Zoo SIG. Manav is contributing in engaging with hugging face.
+  - OnnxRuntime-genai roadmap and development. Pytorch has made the GenAI roadmap. This is something that has impact for ONNXRT. But welcome inputs for ONNX.
+
+Recording Status
+  - Recordings are being processed and will be uploaded to you tube. Prasanth will give access credntials to Krishna for upload.
+  - LFAI channels and linkedin will be used to annouce their avaialabilty.
+  
+#### ONNX Releases
+- Security Patch status
+  - 1.16.1 had security patches that were reported for 1.16.
+  - https://github.com/onnx/onnx/issues/6215
+  - PR was made this morning. Do we do a patch release based on severity of issue.
+  - Infra SIG should decide and Charles plans to followup on making 1.16.2 if requested.
+  - We need to ensure security vulnerabilities are reported using a differnt process. This report however didn't follow that process.
+- 1.17 release manager from Intel: Ravi Bhuchara from Intel will be on sabatical amd Raghavan is following up.
+  - Prasnath is assuming this is being discussed in Infrastructure SIG.
+
+#### ONNX Proposal
+- Interoperabilty challenges have shifted from frameworks to models for LLMs.
+- MSFT is exploring standardization of APIs for LLMs, expanding its scope.
+- MSFT is making a proposal of how it will fit into ONNX.
+- IBM is aligned to the idea of calling LLM APIs to be standardized to enhace interoperabilty.
+- Mayank mentioned that OpenAI spec is pervasive and compatability to OpenAI is important.
+- Other initiaves are also inflight: https://github.com/kserve/open-inference-protocol
+- MSFT can bringup the propsoal for review in next few weeks.
+
+#### Requests for SIG Updates
+- MSFT Thiago with Xavier Dupre owners
+= Daniel from AMD will take over SIG owners.
+- Request creating a PR
+
+#### ONNX for Embedded Working Group
+- Request a writeup on SIG, Goals etc. 
+
+#### Next meeting (2024-07-24)
+ - Moderator: Krishna
