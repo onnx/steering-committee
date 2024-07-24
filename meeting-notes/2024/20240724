@@ -1,0 +1,50 @@
+## Steering Committee Meeting 07/24/2024
+
+### Attendance:
+
+| Name (Affiliation)              | Present  |
+| ------------------------------- | -------- |
+| Prasanth Pulavarthi (Microsoft) | yes |
+| Alexandre Eichenberger (IBM)    | yes |
+| Mayank Kaushik (NVIDIA)         | yes |
+| Saurabh Tangri (Intel)          | yes |
+| Ramakrishnan Sivakumar (AMD)    | yes |
+
+Other attendees: Javier Martinez (Intel), Andreas Fehlner (TRUMPF), Charles Volzka (IBM)
+
+Moderator: Krishna
+
+#### ONNX Community Meetup
+- Retrospective 
+  - OnnxRuntime-genai roadmap and development. Pytorch has made the GenAI roadmap. This is something that has an impact on ONNXRT. But welcome inputs for ONNX.
+  - Proposal to Standardise contrib ops or implement them as local function. Follow-up in September. 
+
+Recording Status
+  - Recordings are being processed and have been uploaded to YouTube.
+  - LFAI channels and LinkedIn will be used to announce their availability: https://www.youtube.com/playlist?list=PLNqLlwTfo322dCxabhV2Uf1-DnCuuIaUg
+  - Add a wiki page with links to videos and slides similar to: https://wiki.lfaidata.foundation/display/DL/ONNX+Community+Day+2023+-+June+28
+  
+#### ONNX Releases
+  - Follow up on the infra sig for release updates
+
+#### ONNX Proposal
+- Interoperability challenges have shifted from frameworks to models for LLMs.
+- MSFT is exploring standardization of APIs for LLMs, expanding its scope.
+- MSFT is proposing how it will fit into ONNX.
+- Mayank mentioned that OpenAI spec is pervasive and compatibility with OpenAI is important.
+- Other initiatives are also inflight: https://github.com/kserve/open-inference-protocol
+- Prasanth to check on public content for the proposal
+- NVIDIA is working on a similar API for Open Inference protocol
+- Can this be brought under the ONNX umbrella?
+- Proposal to have a dedicated meeting to discuss this proposal - Mayank to set it up
+
+#### Requests for SIG Updates
+- Daniel from AMD will take over SIG owners.
+- PR: https://github.com/onnx/sigs/pull/201
+
+#### ONNX for Embedded Working Group
+- PR for review - https://github.com/onnx/working-groups/pull/100
+- Create a Slack channel, enable them to meet and share regular updates on the progress
+
+#### Next meeting (2024-08-07)
+ - Moderator: Prasanth
