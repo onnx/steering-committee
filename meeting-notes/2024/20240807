@@ -1,0 +1,29 @@
+## Steering Committee Meeting 08/07/2024
+
+### Attendance:
+
+| Name (Affiliation)              | Present  |
+| ------------------------------- | -------- |
+| Prasanth Pulavarthi (Microsoft) | yes |
+| Alexandre Eichenberger (IBM)    | yes |
+| Mayank Kaushik (NVIDIA)         | yes |
+| Saurabh Tangri (Intel)          | no |
+| Ramakrishnan Sivakumar (AMD)    | yes |
+
+Other attendees: Andreas Fehlner (TRUMPF), Sunny Anand (IBM), Emma Call (Intel), Javier Martinez (Intel), Charles Volzka (IBM)
+
+Moderator: Prasanth
+
+#### ONNX Releases
+  - 1.16.2 issue: https://github.com/onnx/onnx/issues/6267
+  - users reporting failures for specific python versions on Windows; might be due to github runner; actively being worked on
+
+#### Inference API Proposal
+  - Mayank has setup separate meeting to discuss if/how ONNX organization plays a role
+
+#### SIG/WG Updates
+  - Models sig: Neural compressor and Turnkey integration discussions underway
+  - working towards automating adding quantized models in zoo
+
+#### Next meeting (2024-08-21)
+ - Moderator: Alex  
