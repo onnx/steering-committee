@@ -1,0 +1,35 @@
+## Steering Committee Meeting 09/18/2024
+
+### Attendance:
+
+| Name (Affiliation)              | Present  |
+| ------------------------------- | -------- |
+| Prasanth Pulavarthi (Microsoft) | No |
+| Alexandre Eichenberger (IBM)    | Yes |
+| Mayank Kaushik (NVIDIA)         | No  |
+| Saurabh Tangri (Intel)          | Yes |
+| Ramakrishnan Sivakumar (AMD)    | Yes  |
+
+Other attendees: Andreas (TRUMPF),  Bhragavi (Intel), Sunny Anand
+
+Moderator: Krishna
+
+#### Presentation on Digest AI tool from AMD
+  - AMD working with LFAI legal to ensure license alignment
+  - Got legal clarification from LFAI, AMD internal process to take 1-2 weeks
+
+#### ONNX Releases
+  - Release announced for ONNX 1.17 
+
+#### Inference API Proposal
+  - ONNX standard committee is open to any proposals if anyone is interested in driving it.  
+  - ONNX team to come up with motivation for investments in inference APIs and collect broader feedback
+
+#### SIG/WG Updates
+  - SONNX WG kicked off this week
+
+#### Open questions
+- LFAI TAC has requested for a presentation on State of ONNX - Alex to lead
+ 
+#### Next meeting (2024-10-16)
+ - Moderator: Prasanth
