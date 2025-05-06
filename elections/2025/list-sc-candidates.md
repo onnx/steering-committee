@@ -1,4 +1,4 @@
-ONNX Steering Committee 2024 Candidates
+ONNX Steering Committee 2025 Candidates
 ==========================================
 
 Candidates listed in the order in which we received their nominations.
