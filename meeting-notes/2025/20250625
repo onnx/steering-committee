@@ -1,0 +1,53 @@
+##  Meeting 06/04/25
+
+### Attendance:
+
+| Name (Affiliation)              | Present  |
+| ------------------------------- | -------- |
+| Alexandre Eichenberger (IBM)            | Yes |
+| Mayank Kaushik (NVIDIA)                 | Yes |
+| Saurabh Tangri (Intel)                  | Yes |
+| Andreas Fehlner (TRUMPF Laser)          | Yes |
+| Ganesan Ramalingam ("Rama") (Microsoft) | Yes |
+
+Other attendees: Elena (Intel), Agnes (Intel)
+
+Notetaker: Alexandre
+
+#### TAC presentation ####
+- TAC wants a 15 minute presentation with 5 mins slides and 10 mins demo (June 5th @ 6am Pacific Time)
+- Krishna had volunteered TurnKey demo.
+- Alex presented the slide and got a lot of useful feedback, and will post a new set within an hour of the meeting.
+
+#### ONNX 2.0 discussion ####
+- Discussion originating from the presentation on what we should present for the push toward ONNX 2.0
+- Mayank: pytorch is important but ONNX is small lightweight and has a lot of value, big benefits to embedded in smaller / robotics... with c++ env.
+  Convergeance with pytorch is key.
+- Saurabh: more focus on the focus on conversion from pytorch. Fastest way to production is through ONNX.
+- Rama: there is still a value in going out of pytorch for traing to deployment.
+- Saurabh: how do you see us distingish from A10 and executor (meta executor, export out of pytorch into executor).
+- Rama: benefit from open standard is significant for companies.
+- Andreas: easy and stable depoyment. Machine model in critical environemnt (medical, plane,...) need suitable well defined.
+- Mayank: take strenght (large installment base, well known) and cross platform (microsoft offerings) and leverage existing strenght and update for genai and other topics of importance.
+- Saurabh: operators (fine) and framework (olama, vllm), see that ONNX is not that relevant in server labs, now more client centered, is that ok
+- Mayank: olama is also only client side. Still a gap on windows. There is still a gap special process good topic for discussion with the larger community.
+- Alex: GenAI WG discussed this today, and initial goal is to converge interfaces for client side, with an eye towards server side in the future.
+
+
+#### Meetup ####
+- discussion on ONNX 2.0 is helpful to guide the discussions
+  - Mayank: steering committee talk should be no more than 10-12 min
+  - Rama: found a gap, Saurabh to fix the schedule.
+- Saurabh: we can make the 9-9:30 a networking time. 
+
+#### PyTorch talk
+- Saurabh proposed that ONNX submit a talk to the PyTorch conference (Oct 22-23 in SF)
+- Saurabh submitted 2 lighting talk. If someone know someone in the PyTorch conference.
+- Andreas: PyTorch also has open meetings that we can join.
+- Saurabh: wish they have ways to better interact with PyTorch, and Amazon was very active with ONNX, and so was Apple.
+- Krishnan: Amazon does use ONNX a lot, but they not as active in the community anymore.
+- Rama: Facebook is only pytorch.
+- Mayank: with torch inductor, pytorch has now a common path between ONNX exporter. That is a good development.
+
+#### Next meeting (2025-06-11)
+ - Moderator: Mayank
