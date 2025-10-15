@@ -1,0 +1,35 @@
+##  Meeting 10/15/25
+
+### Attendance:
+
+| Name (Affiliation)              | Present  |
+| ------------------------------- | -------- |
+| Alexandre Eichenberger (IBM)            | Yes |
+| Mayank Kaushik (NVIDIA)                 | No |
+| Andreas Fehlner (TRUMPF Laser)          | yes |
+| Ganesan Ramalingam ("Rama") (Microsoft) | yes |
+| Agnes So (Intel)                        | Yes |
+
+Other attendees: Saurabh Tangri
+
+Moderator: Agnes
+
+# Hackathon
+  - Early 2026, Saurabh to bring a proposal in 2-3 weeks
+  - could leverage PT foundation resources
+  
+# ONNX PyTorch Foundation Discussion:
+* Decision framework whether joining the PyTorch Foundation makes sense
+  - Does this help with more visibility/contributors? Gather opinion from SIGs
+  - There is good connection with PT vs LFAI
+  - List of resource we require continual support on - GH enterprise support, Slack, Zoom, repo licensing
+  - ONNX would like to contribute to messaging and positioning within PT ecosystem
+  - List of their expectations in return
+  - What is their overall marketing plan and how does it contrast with LFAI?
+
+* Discuss proposal and take feedback at next leadership meeting
+* Executorch positioning alongside ONNX, will help broader ecosystem
+* LFAI & Data and Pytorch Foundations are sibling groups under LF. PyTorch foundation is more focused on Deep Learning, while LFAI is much broader
+* ONNX AI repo - where should it live? copywrite with LFAI?
+* LFAI requesting updates (2-3 paragraph summary), what does LFAI gives us in terms of marketing? full scope view of their marketing plan?
+
