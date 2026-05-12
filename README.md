@@ -2,7 +2,7 @@
 
 The role and responsibilities of the Steering Committee are defined in the ONNX [governance](https://github.com/onnx/onnx/tree/main/community#steering-committee).
 
-The Steering Committee meets regularly and calls are available for any community member to join. You can find the latest schedule at https://onnx.ai/calendar
+The Steering Committee meets regularly and calls are available for any community member to join. You can find the latest schedule at https://onnx.ai/calendar.
 
 Agendas for upcoming meetings and notes from completed meetings are published [here](meeting-notes).
 
@@ -10,7 +10,8 @@ Elections happen annually.
 
 | Term | Members |
 | ---- | ------- |
-| **Current**<br>September 1st, 2025 - May 31, 2026 | [Alexandre Eichenberger](https://github.com/AlexandreEichenberger) (IBM)<br>[Mayank Kaushik](https://github.com/mk-nvidia) (Nvidia)<br>[Andreas Fehlner](https://github.com/andife) (TRUMPF Laser SE)<br>[Ganesan Ramalingam ("Rama")](https://github.com/gramalingam) (Microsoft)<br>[Agnes So](https://www.linkedin.com/in/agnes-so-7b410b/) (Intel)|
+| **Current**<br>June 1st, 2026 - May 31, 2027 | [Alexandre Eichenberger](https://github.com/AlexandreEichenberger) (IBM)<br>[Andreas Fehlner](https://github.com/andife) (TRUMPF Laser SE)<br>[Ganesan Ramalingam ("Rama")](https://github.com/gramalingam) (Microsoft)<br>[Brian Nguyen](https://github.com) (NVIDIA)<br>[Javier Martinez](https://github.com/orgs/onnx/people/javier-intel) (Intel)|
+| <br>September 1st, 2025 - May 31, 2026 | [Alexandre Eichenberger](https://github.com/AlexandreEichenberger) (IBM)<br>[Mayank Kaushik](https://github.com/mk-nvidia) (Nvidia)<br>[Andreas Fehlner](https://github.com/andife) (TRUMPF Laser SE)<br>[Ganesan Ramalingam ("Rama")](https://github.com/gramalingam) (Microsoft)<br>[Agnes So](https://www.linkedin.com/in/agnes-so-7b410b/) (Intel)|
 | <br>June 1st, 2025 - August 31, 2026 | [Alexandre Eichenberger](https://github.com/AlexandreEichenberger) (IBM)<br>[Mayank Kaushik](https://github.com/mk-nvidia) (Nvidia)<br>[Saurabh Tangri](https://www.linkedin.com/in/saurabhtangri/) (Intel)<br>[Andreas Fehlner](https://github.com/andife) (TRUMPF Laser SE)<br>[Ganesan Ramalingam ("Rama")](https://github.com/gramalingam) (Microsoft)|
 | June 1st, 2024 - May 31, 2025 | [Prasanth Pulavarthi](https://github.com/prasanthpul) (Microsoft)<br>[Alexandre Eichenberger](https://github.com/AlexandreEichenberger) (IBM)<br>[Mayank Kaushik](https://github.com/mk-nvidia) (Nvidia)<br>[Saurabh Tangri](https://www.linkedin.com/in/saurabhtangri/) (Intel)<br>[Ramakrishnan Sivakumar](https://github.com/ramkrishna2910) (AMD) |
 | June 1st, 2023 - May 31, 2024 | [Prasanth Pulavarthi](https://github.com/prasanthpul) (Microsoft)<br>[Alexandre Eichenberger](https://github.com/AlexandreEichenberger) (IBM)<br>[Mayank Kaushik](https://github.com/mk-nvidia) (Nvidia)<br>[Andreas Fehlner](https://github.com/andife) (TRUMPF Laser GmbH)<br>[Saurabh Tangri](https://www.linkedin.com/in/saurabhtangri/) (Intel) |
