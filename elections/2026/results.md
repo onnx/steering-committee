@@ -27,7 +27,7 @@
 | Hyun Gyu Kim (TelePIX) | 12 | 3 | 9 | 5 | 1 | 6 | 8 | 11 | 10 | 4 | 2 | 7 | 
 | Yamini Nimmagadda (Intel) | 5 | 6 | 6 | 1 | 2 | 4 | 3 | 5 | 4 | 6 | 6 | 1 | 
 | Christian Bourjau (Quantco) | 8 | 12 | 12 | 5 | 4 | 6 | 2 | 3 | 1 | 12 | 12 | 7 | 
-| Andreas Fehlne (TRUMPF Laser SE) | 12 | 12 | 12 | 3 | 2 | 7 | 1 | 5 | 4 | 12 | 8 | 6 | 
+| Andreas Fehlner (TRUMPF Laser SE) | 12 | 12 | 12 | 3 | 2 | 7 | 1 | 5 | 4 | 12 | 8 | 6 | 
 | Tung Le (IBM) | 12 | 12 | 12 | 2 | 1 | 3 | 5 | 12 | 12 | 12 | 12 | 4 | 
 
 ## Precedence per company.
