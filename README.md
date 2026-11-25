@@ -6,6 +6,8 @@ The Steering Committee meets regularly and calls are available for any community
 
 Agendas for upcoming meetings and notes from completed meetings are published [here](meeting-notes).
 
+Conference and community presentation slides are listed in the [presentations overview](presentations/README.md).
+
 Elections happen annually.
 
 | Term | Members |
